@@ -1,0 +1,50 @@
+body{
+    background-color: #e0fbfc;
+    padding-top:2rem;
+    font-family: 'Nunito',Helvetica,Arial,Lucida,sans-serif;
+};
+
+.navbarDiv{
+    position:absolute;
+    bottom: 50px;
+}
+.carousel-item img{
+    display:absolute;
+    opacity:0.5;
+    height:20rem;
+    width:50%;
+    right:0;    
+}
+.busImgs img:hover{
+    opacity:1;
+}
+.footer{
+       padding-top:4rem;
+}
+.footer p{
+    text-align: center;
+}
+.navbar{
+    height:80px;
+}
+.navbar-brand{
+    font-size:1.5rem ;
+}
+
+.navbar{
+    padding:0 0 ;
+}
+.nav-item{
+    padding:0 15px;
+}
+.nav-link{
+    font-size:1.2rem;
+}
+/* .navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size:2.9rem;
+    font-weight:bold;
+} */
+/* Media Section */
+
+
